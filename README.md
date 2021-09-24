@@ -15,3 +15,5 @@ View the front of the card and then flip to reveal the answer on the back:
 
 Create a new deck:
 ![Create Deck Page](/images/create-deck-page.png)
+
+-Built using Javascript ES6, HTML5, React.js, and styled with Bootstrap
